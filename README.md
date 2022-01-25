@@ -4,3 +4,5 @@ This Powershell script is Intended to give an immediate Insight about potential 
 
 Run locally on Offline/Online Exchange Server
 PS V3.0 +
+
+GNU GENERAL PUBLIC LICENSE 3.0
